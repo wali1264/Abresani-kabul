@@ -1,0 +1,9 @@
+{
+  "name": "noskhe sefareshi  moshtari kabul: eblis310 activiti nimRemix: 400Remix: 240Remix: 50Remix: Vendura",
+  "description": "سیستم جامع و هوشمند مدیریت کسب و کار، انبارداری و حسابداری Vendura.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
